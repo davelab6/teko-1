@@ -351,12 +351,14 @@
       <map code="0x938" name="uni0938"/><!-- DEVANAGARI LETTER SA -->
       <map code="0x939" name="uni0939"/><!-- DEVANAGARI LETTER HA -->
       <map code="0x93c" name="uni093C"/><!-- DEVANAGARI SIGN NUKTA -->
+      <map code="0x93d" name="uni093D"/><!-- DEVANAGARI SIGN AVAGRAHA -->
       <map code="0x93e" name="uni093E"/><!-- DEVANAGARI VOWEL SIGN AA -->
       <map code="0x93f" name="uni093F"/><!-- DEVANAGARI VOWEL SIGN I -->
       <map code="0x940" name="uni0940"/><!-- DEVANAGARI VOWEL SIGN II -->
       <map code="0x941" name="uni0941"/><!-- DEVANAGARI VOWEL SIGN U -->
       <map code="0x942" name="uni0942"/><!-- DEVANAGARI VOWEL SIGN UU -->
       <map code="0x943" name="uni0943"/><!-- DEVANAGARI VOWEL SIGN VOCALIC R -->
+      <map code="0x944" name="uni0944"/><!-- DEVANAGARI VOWEL SIGN VOCALIC RR -->
       <map code="0x945" name="uni0945"/><!-- DEVANAGARI VOWEL SIGN CANDRA E -->
       <map code="0x946" name="uni0946"/><!-- DEVANAGARI VOWEL SIGN SHORT E -->
       <map code="0x947" name="uni0947"/><!-- DEVANAGARI VOWEL SIGN E -->
@@ -366,6 +368,7 @@
       <map code="0x94b" name="uni094B"/><!-- DEVANAGARI VOWEL SIGN O -->
       <map code="0x94c" name="uni094C"/><!-- DEVANAGARI VOWEL SIGN AU -->
       <map code="0x94d" name="uni094D"/><!-- DEVANAGARI SIGN VIRAMA -->
+      <map code="0x950" name="uni0950"/><!-- DEVANAGARI OM -->
       <map code="0x958" name="uni0915093C"/><!-- DEVANAGARI LETTER QA -->
       <map code="0x959" name="uni0916093C"/><!-- DEVANAGARI LETTER KHHA -->
       <map code="0x95a" name="uni0917093C"/><!-- DEVANAGARI LETTER GHHA -->
@@ -376,6 +379,8 @@
       <map code="0x95f" name="uni092F093C"/><!-- DEVANAGARI LETTER YYA -->
       <map code="0x960" name="uni0960"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="uni0961"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="uni0966"/><!-- DEVANAGARI DIGIT ZERO -->
       <map code="0x967" name="uni0967"/><!-- DEVANAGARI DIGIT ONE -->
       <map code="0x968" name="uni0968"/><!-- DEVANAGARI DIGIT TWO -->
@@ -386,6 +391,8 @@
       <map code="0x96d" name="uni096D"/><!-- DEVANAGARI DIGIT SEVEN -->
       <map code="0x96e" name="uni096E"/><!-- DEVANAGARI DIGIT EIGHT -->
       <map code="0x96f" name="uni096F"/><!-- DEVANAGARI DIGIT NINE -->
+      <map code="0x970" name="uni0970"/><!-- DEVANAGARI ABBREVIATION SIGN -->
+      <map code="0x972" name="uni0972"/><!-- DEVANAGARI LETTER CANDRA A -->
       <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
       <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
       <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
@@ -406,6 +413,7 @@
       <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x2044" name="fraction"/><!-- FRACTION SLASH -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x20b9" name="uni20B9"/><!-- INDIAN RUPEE SIGN -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
       <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->
@@ -1021,12 +1029,14 @@
       <map code="0x938" name="uni0938"/><!-- DEVANAGARI LETTER SA -->
       <map code="0x939" name="uni0939"/><!-- DEVANAGARI LETTER HA -->
       <map code="0x93c" name="uni093C"/><!-- DEVANAGARI SIGN NUKTA -->
+      <map code="0x93d" name="uni093D"/><!-- DEVANAGARI SIGN AVAGRAHA -->
       <map code="0x93e" name="uni093E"/><!-- DEVANAGARI VOWEL SIGN AA -->
       <map code="0x93f" name="uni093F"/><!-- DEVANAGARI VOWEL SIGN I -->
       <map code="0x940" name="uni0940"/><!-- DEVANAGARI VOWEL SIGN II -->
       <map code="0x941" name="uni0941"/><!-- DEVANAGARI VOWEL SIGN U -->
       <map code="0x942" name="uni0942"/><!-- DEVANAGARI VOWEL SIGN UU -->
       <map code="0x943" name="uni0943"/><!-- DEVANAGARI VOWEL SIGN VOCALIC R -->
+      <map code="0x944" name="uni0944"/><!-- DEVANAGARI VOWEL SIGN VOCALIC RR -->
       <map code="0x945" name="uni0945"/><!-- DEVANAGARI VOWEL SIGN CANDRA E -->
       <map code="0x946" name="uni0946"/><!-- DEVANAGARI VOWEL SIGN SHORT E -->
       <map code="0x947" name="uni0947"/><!-- DEVANAGARI VOWEL SIGN E -->
@@ -1036,6 +1046,7 @@
       <map code="0x94b" name="uni094B"/><!-- DEVANAGARI VOWEL SIGN O -->
       <map code="0x94c" name="uni094C"/><!-- DEVANAGARI VOWEL SIGN AU -->
       <map code="0x94d" name="uni094D"/><!-- DEVANAGARI SIGN VIRAMA -->
+      <map code="0x950" name="uni0950"/><!-- DEVANAGARI OM -->
       <map code="0x958" name="uni0915093C"/><!-- DEVANAGARI LETTER QA -->
       <map code="0x959" name="uni0916093C"/><!-- DEVANAGARI LETTER KHHA -->
       <map code="0x95a" name="uni0917093C"/><!-- DEVANAGARI LETTER GHHA -->
@@ -1046,6 +1057,8 @@
       <map code="0x95f" name="uni092F093C"/><!-- DEVANAGARI LETTER YYA -->
       <map code="0x960" name="uni0960"/><!-- DEVANAGARI LETTER VOCALIC RR -->
       <map code="0x961" name="uni0961"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
       <map code="0x966" name="uni0966"/><!-- DEVANAGARI DIGIT ZERO -->
       <map code="0x967" name="uni0967"/><!-- DEVANAGARI DIGIT ONE -->
       <map code="0x968" name="uni0968"/><!-- DEVANAGARI DIGIT TWO -->
@@ -1056,6 +1069,8 @@
       <map code="0x96d" name="uni096D"/><!-- DEVANAGARI DIGIT SEVEN -->
       <map code="0x96e" name="uni096E"/><!-- DEVANAGARI DIGIT EIGHT -->
       <map code="0x96f" name="uni096F"/><!-- DEVANAGARI DIGIT NINE -->
+      <map code="0x970" name="uni0970"/><!-- DEVANAGARI ABBREVIATION SIGN -->
+      <map code="0x972" name="uni0972"/><!-- DEVANAGARI LETTER CANDRA A -->
       <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
       <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
       <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
@@ -1076,6 +1091,7 @@
       <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
       <map code="0x2044" name="fraction"/><!-- FRACTION SLASH -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x20b9" name="uni20B9"/><!-- INDIAN RUPEE SIGN -->
       <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
       <map code="0x2126" name="uni2126"/><!-- OHM SIGN -->
       <map code="0x220f" name="product"/><!-- N-ARY PRODUCT -->

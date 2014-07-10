@@ -4453,13 +4453,13 @@
             </BaseRecord>
             <BaseRecord index="50">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="836"/>
+                <XCoordinate value="669"/>
                 <YCoordinate value="669"/>
               </BaseAnchor>
             </BaseRecord>
             <BaseRecord index="51">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="1122"/>
+                <XCoordinate value="978"/>
                 <YCoordinate value="669"/>
               </BaseAnchor>
             </BaseRecord>
@@ -6595,7 +6595,7 @@
             </BaseRecord>
             <BaseRecord index="407">
               <BaseAnchor index="0" Format="1">
-                <XCoordinate value="1169"/>
+                <XCoordinate value="1027"/>
                 <YCoordinate value="669"/>
               </BaseAnchor>
             </BaseRecord>
